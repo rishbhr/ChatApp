@@ -3,7 +3,7 @@ A chat application built to run on local instances, using javascript and socket.
 
 The basic functionality was pulled from socket.io tutorial project here: https://socket.io/get-started/chat/#Introduction
 
-## The basic use cases of this project(goals and examples from socket.io site):
+## The basic use cases of this project:
 1. Add user tracking
   - [ ] Display when users connect or disconnect
   - [ ] Add support for basic nick names
